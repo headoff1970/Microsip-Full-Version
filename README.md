@@ -231,3 +231,6 @@ This repository serves as the official landing page for MicroSIP. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of MicroSIP today!**
+
+---
+**Last updated:** 2026-09-10 14:56:41 UTC
