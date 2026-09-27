@@ -233,4 +233,4 @@ This repository serves as the official landing page for MicroSIP. The software i
 **Get the most recent version of MicroSIP today!**
 
 ---
-**Last updated:** 2026-09-27 10:29:59 UTC
+**Last updated:** 2026-09-27 15:35:42 UTC
